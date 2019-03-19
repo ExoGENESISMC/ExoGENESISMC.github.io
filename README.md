@@ -1,7 +1,7 @@
 # The ExoGENESIS MC server
 
 ## Status
-- Server IP : [here](./ip.html)
+- Server IP : [here](./ip.txt)
 - Modpack version : **1.2**
 
 ## Modpack downloads
